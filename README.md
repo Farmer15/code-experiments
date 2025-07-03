@@ -8,3 +8,8 @@
 - 참고 사이트
   - https://www.rabbitmq.com/
   - https://github.com/rabbitmq/rabbitmq-tutorials
+
+### 2. Celery
+
+- 참고 사이트
+    - https://docs.celeryq.dev/en/stable/index.html
